@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
-LinkdIn : https://www.linkedin.com/in/jakaria-hossain-a5a168209/
+LinkdIn : https://www.linkedin.com/in/jakariah/
 FB : https://www.facebook.com/jakaria.hossain.71271/
 Mail: jhossain439@gmail.com
 
