@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jakaria Hossain
 - 👀 I’m interested in C, C++, ReactJS, , TypeScript, Angular, Java
 - 🌱 I’m a competitive programmer
-- MEAN and ERN stack developer
+- MEAN and MERN stack developer
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
