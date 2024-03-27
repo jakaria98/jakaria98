@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++, ReactJS, , TypeScript, Angular, Java
 - 🌱 I’m a competitive programmer
 - MEAN and MERN stack developer
-- 💞️ I’m looking to collaborate on Development
+- 💞️ I’m looking to collaborate in Development
 - 📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
 FB : https://www.facebook.com/jakaria.hossain.71271/
