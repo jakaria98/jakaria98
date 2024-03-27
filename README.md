@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jakaria Hossain
-- 👀 I’m interested in C, C++, ReactJS, , TypeScript, Angular, Java
+- 👀 I’m interested in C, C++, ReactJS, TypeScript, Angular, Java
 - 🌱 I’m a competitive programmer
-- MEAN and MERN stack developer
+- 🌱 MEAN and MERN stack developer
+- 💞️ I’m good at MongoDB, MySQL, MariaDB
 - 💞️ I’m looking to collaborate in Development
 - 📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
