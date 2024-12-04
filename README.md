@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Jakaria Hossain
-- 👀 I’m interested in C, C++, ReactJS,NodeJS, TypeScript, Angular, Java
+- 👀 I’m interested in ReactJS, NodeJS, Java, Spring Boot, Python, Django, C, C++
 - 🌱 I’m a competitive programmer
-- 🌱 MEAN and MERN stack developer
-- 💞️ I’m good at MongoDB, MySQL, MariaDB
+- 💞️ I’m good at MongoDB, MySQL, SQLite
 - 💞️ I’m looking to collaborate in Development
 - 📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
 FB : https://www.facebook.com/jakaria.hossain.71271/
-Mail: jhossain439@gmail.com
+Email: jhossain439@gmail.com
 
 <!---
 jakaria98/jakaria98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
