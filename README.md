@@ -4,7 +4,7 @@
   💻 Skilled in ReactJS, NodeJS, Java, Spring Boot, Python, Django, C, and C++.
   🛠️ Experienced with databases: MongoDB, MySQL, and SQLite.
   🤝 Looking to collaborate on Development Projects and contribute to impactful solutions.
-📫 How to reach me ...
+  📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
 FB : https://www.facebook.com/jakaria.hossain.71271/
 Email: jhossain439@gmail.com
