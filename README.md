@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Jakaria Hossain
-- 👀 I’m interested in ReactJS, NodeJS, Java, Spring Boot, Python, Django, C, C++
-- 🌱 I’m a competitive programmer
-- 💞️ I’m good at MongoDB, MySQL, SQLite
-- 💞️ I’m looking to collaborate in Development
-- 📫 How to reach me ...
+👋 Hi, I’m Jakaria Hossain
+  🚀 About Me
+  🎯 Competitive Programmer with a strong passion for solving challenges.
+  💻 Skilled in ReactJS, NodeJS, Java, Spring Boot, Python, Django, C, and C++.
+  🛠️ Experienced with databases: MongoDB, MySQL, and SQLite.
+  🤝 Looking to collaborate on Development Projects and contribute to impactful solutions.
+📫 How to reach me ...
 LinkdIn : https://www.linkedin.com/in/jakariah/
 FB : https://www.facebook.com/jakaria.hossain.71271/
 Email: jhossain439@gmail.com
