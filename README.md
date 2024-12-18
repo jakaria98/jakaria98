@@ -15,8 +15,8 @@
 
 ---
 
-##⚡ Fun Fact
-- **"Code is like humor. When you have to explain it, it’s bad." ✨**
+## ⚡ Fun Fact
+- ### "Code is like humor. When you have to explain it, it’s bad." ✨
 
 <!---
 jakaria98/jakaria98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
