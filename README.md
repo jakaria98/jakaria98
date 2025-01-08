@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🎯 **Competitive Programmer** with a strong passion for solving challenges.  
-💻 Skilled in **ReactJS**, **NodeJS**, **Java**, **Spring Boot**, **Python**, **Django**, **C**, and **C++**.  
+💻 Skilled in **Jvascript**, **ReactJS**, **NodeJS**, **ExpressJS**, **Java**, **Spring Boot**, **Python**, **Django**, **C**, and **C++**.  
 🛠️ Experienced with databases: **MongoDB**, **MySQL**, and **SQLite**.  
 🤝 Looking to collaborate on **Development Projects** and contribute to impactful solutions.  
 
