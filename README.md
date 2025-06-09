@@ -1,25 +1,24 @@
 # 👋 Hi, I’m Jakaria Hossain  
 
 ## 🚀 About Me  
-🚀 **Full-Stack Software Engineer | Competitive Programmer**
+🚀 **Full-Stack Software Engineer | Competitive Programmer**  
+🛠 **Tech Stack:**  
+• **Languages:** Java, Python, JavaScript/TypeScript, C, C++  
+• **Frontend:** React, Angular, HTML5/CSS, Material-UI  
+• **Backend:** Node.js, Express, Spring Boot, Django  
+• **Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
+• **DevOps:** CI/CD, Azure DevOps, Docker, RESTful APIs  
 
-🛠 **Tech Stack:**
-• **Languages:** Java, Python, JavaScript/TypeScript, C, C++
-• **Frontend:** React, Angular, HTML5/CSS, Material-UI
-• **Backend:** Node.js, Express, Spring Boot, Django
-• **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
-• **DevOps:** CI/CD, Azure DevOps, Docker, RESTful APIs
+🎯 **Highlights:**  
+• Developed enterprise solutions with Spring Boot & Node.js (JWT/OAuth)  
+• Built data pipelines using Django/Python and Power BI analytics  
+• Lectured CS fundamentals with hands-on project mentoring  
+• M.A.Sc. in Software Engineering (Memorial University of Newfoundland)  
 
-🎯 **Highlights:**
-• Developed enterprise solutions with Spring Boot & Node.js (JWT/OAuth)
-• Built data pipelines using Django/Python and Power BI analytics
-• Lectured CS fundamentals with hands-on project mentoring
-• M.A.Sc. in Software Engineering (Memorial University of Newfoundland)
-
-🤝 Let’s collaborate on:
-• Scalable web applications
-• Data-intensive backend systems
-• Aviation/transportation tech solutions
+🤝 Let’s collaborate on:  
+• Scalable web applications  
+• Data-intensive backend systems  
+• Aviation/transportation tech solutions  
 
 ---
 
