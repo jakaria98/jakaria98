@@ -2,6 +2,7 @@
 
 ## 🚀 About Me  
 🚀 **Full-Stack Software Engineer | Competitive Programmer**
+
 🛠 **Tech Stack:**
 • **Languages:** Java, Python, JavaScript/TypeScript, C, C++
 • **Frontend:** React, Angular, HTML5/CSS, Material-UI
