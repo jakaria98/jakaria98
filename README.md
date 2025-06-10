@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 🚀 **Software Engineer | Competitive Programmer | Tech Educator**  
 🎓 **M.A.Sc. in Software Engineering (Memorial University)**  
-🚀 **Full-Stack Software Engineer | Competitive Programmer**  
+---
 🛠 **Tech Stack:**  
 • **Languages:** Python, Java, JavaScript/TypeScript, C, C++, T-SQL  
 • **Frontend:** React, Angular, HTML5, CSS, Tailwind CSS, Bootstrap, Material-UI, Redux  
