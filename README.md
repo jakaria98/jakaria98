@@ -8,13 +8,13 @@
 
 🛠 **Tech Stack:**  
 • **Programming Languages:** Python, Java, JavaScript, C, C++, SQL, TypeScript  
-• **Frontend Technologies:** ReactJS, HTML5, CSS, Tailwind CSS, Material-UI, Redux, Bootstrap, ESLint
-• **Backend Technologies:** Django, Spring Boot, NodeJS, ExpressJS, RESTful APIs 
-• **Database:** PostgreSQL, MongoDB, MySQL, SQLite
-• **Testing and Compliance:** JUnit, Pytest
-• **Reporting:** Pandas, NumPy, SciPy, Power BI
-• **DevOps and Tools:** Azure DevOps, Git, GitHub Actions, CI/CD Pipelines, Docker
-• **Security and Authentication:** JWT, OAuth
+• **Frontend Technologies:** ReactJS, HTML5, CSS, Tailwind CSS, Material-UI, Redux, Bootstrap, ESLint  
+• **Backend Technologies:** Django, Spring Boot, NodeJS, ExpressJS, RESTful APIs   
+• **Database:** PostgreSQL, MongoDB, MySQL, SQLite  
+• **Testing and Compliance:** JUnit, Pytest  
+• **Reporting:** Pandas, NumPy, SciPy, Power BI  
+• **DevOps and Tools:** Azure DevOps, Git, GitHub Actions, CI/CD Pipelines, Docker  
+• **Security and Authentication:** JWT, OAuth  
 
 🤝 Let’s collaborate on:  
 • Scalable web applications  
