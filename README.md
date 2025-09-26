@@ -11,9 +11,9 @@
 • **Frontend Technologies:** ReactJS, HTML5, CSS, Tailwind CSS, Material-UI, Redux, Bootstrap, ESLint  
 • **Backend Technologies:** Django, Spring Boot, NodeJS, ExpressJS, RESTful APIs   
 • **Database:** PostgreSQL, MongoDB, MySQL, SQLite  
-• **Testing and Compliance:** JUnit, Pytest  
+• **Testing and Compliance:** JUnit, Pytest, Jest  
 • **Reporting:** Pandas, NumPy, SciPy, Power BI  
-• **DevOps and Tools:** Azure DevOps, Git, GitHub Actions, CI/CD Pipelines, Docker  
+• **DevOps and Tools:** Azure DevOps, Git, GitHub Actions, CI/CD Pipelines, Docker, Jira, Kubernetes    
 • **Security and Authentication:** JWT, OAuth  
 
 🤝 Let’s collaborate on:  
