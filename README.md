@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🚀 **Software Engineer | Full-Stack Developer | Data Analyst | Educator**  
-🎓 **M.A.Sc. in Software Engineering (Memorial University)**
+🎓 **M.A.Sc. in Software Engineering (Memorial University)**  
 💼 **Software Developer, Flight Operations Systems, PAL Airlines ✈️**
 
 ---
