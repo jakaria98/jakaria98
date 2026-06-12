@@ -10,7 +10,7 @@
 • **Programming Languages:** Python, Java, JavaScript, C, C++, SQL, TypeScript  
 • **Frontend Technologies:** ReactJS, HTML5, CSS, Tailwind CSS, Material-UI, Redux, Bootstrap, ESLint  
 • **Backend Technologies:** Django, Spring Boot, NodeJS, ExpressJS, RESTful APIs   
-• **Database:** PostgreSQL, MongoDB, MySQL, SQLite  
+• **Database:** PostgreSQL, MongoDB, MySQL, SQLite, Microsoft SQL Server (MSSQL)  
 • **Testing and Compliance:** JUnit, Pytest, Jest  
 • **Reporting:** Pandas, NumPy, SciPy, Power BI  
 • **DevOps and Tools:** Azure DevOps, Git, GitHub Actions, CI/CD Pipelines, Docker, Jira, Kubernetes    
