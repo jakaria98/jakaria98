@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Jakaria Hossain  
 
 ## 🚀 About Me  
-🚀 **Software Engineer | Competitive Programmer | Tech Educator**  
-🎓 **M.A.Sc. in Software Engineering (Memorial University)**  
+🚀 **Software Engineer | Full-Stack Developer | Data Analyst | Educator**  
+🎓 **M.A.Sc. in Software Engineering (Memorial University)**
+💼 **Software Developer, Flight Operations Systems, PAL Airlines ✈️**
 
 ---
 
